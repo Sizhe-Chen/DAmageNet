@@ -15,6 +15,7 @@
 # Data
 * Each folder in ./DAmageNet contains samples in one class, which are distributed in 10 .tar files.
 * The class labels are corresponding to ImageNet in terms of numerical order.
+* The name of image in DAmageNet is the same as that of the original clean image in ImageNet.
 * Comparison between ImageNet and DAmageNet samples can be viewed in ./demo
 * [Download](http://www.pami.sjtu.edu.cn/Show/56/122)
 
