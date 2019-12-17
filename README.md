@@ -6,7 +6,7 @@
 * Institute of Image Processing and Pattern Recognition in Shanghai Jiao Tong University
 
 # Description
-* Details of DAmageNet can be viewed in paper DAmageNet: A Universal Adversarial Dataset in arXiv.
+* Details of DAmageNet can be viewed in paper [DAmageNet: A Universal Adversarial Dataset](https://arxiv.org/abs/1912.07160)
 * DAmageNet is a massive dataset containing universal adversarial samples generated from ImageNet.
 * DAmageNet contains 96020 224*224 images, whose original images have been centrally cropped and resized.
 * DAmageNet images have an average root mean square deviation of around 3.8 from original samples.
