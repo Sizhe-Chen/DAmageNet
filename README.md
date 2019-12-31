@@ -20,4 +20,6 @@
 * [Download](http://www.pami.sjtu.edu.cn/Show/56/122)
 
 # Demo
-![intro](https://github.com/AllenChen1998/DAmageNet/blob/master/demo.png)
+![intro](https://github.com/AllenChen1998/DAmageNet/blob/master/intro.png)
+![intro](https://github.com/AllenChen1998/DAmageNet/blob/master/results.png)
+<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/intro.png" height=300>
