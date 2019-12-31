@@ -21,3 +21,5 @@
 
 # Demo
 <img src="https://github.com/AllenChen1998/DAmageNet/blob/master/intro.png" height="300">
+<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/results.png" height="300">
+<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/samples.png" height="300">
