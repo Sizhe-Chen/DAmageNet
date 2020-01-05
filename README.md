@@ -9,7 +9,7 @@
 * Details of DAmageNet can be viewed in paper [DAmageNet: A Universal Adversarial Dataset](https://arxiv.org/abs/1912.07160)
 * DAmageNet is a massive dataset containing universal adversarial samples generated from ImageNet.
 * DAmageNet contains 96020 224*224 images, whose original images have been centrally cropped and resized.
-* DAmageNet images have an average root mean square deviation of around 3.8 from original samples.
+* DAmageNet images have an average root mean square deviation of around 4.2 from original samples.
 * DAmageNet can fool pretrained models in ImageNet to have error rate up to 90%.
 
 # Data
