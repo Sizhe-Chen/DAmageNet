@@ -1,8 +1,8 @@
 # Authors
 * Sizhe Chen, csz729020210@sjtu.edu.cn
-* Xiaolin Huang*, xiaolinhuang@sjtu.edu.cn
 * Zhengbao He, lstefanie@sjtu.edu.cn
 * Chengjin Sun, sunchengjin@sjtu.edu.cn
+* Xiaolin Huang*, xiaolinhuang@sjtu.edu.cn
 * Institute of Image Processing and Pattern Recognition in Shanghai Jiao Tong University
 
 # Description
