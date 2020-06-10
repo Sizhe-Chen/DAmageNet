@@ -23,4 +23,4 @@ python test.py DAmageNet VGG19,ResNet50,DenseNet121 0
 ```
 
 # Demo
-<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/intro.png" height="280"><img src="https://github.com/AllenChen1998/DAmageNet/blob/master/results.png" height="280">
+<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/intro.png" height="250"><img src="https://github.com/AllenChen1998/DAmageNet/blob/master/results.png" height="250">
