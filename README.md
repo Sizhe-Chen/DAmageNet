@@ -36,6 +36,7 @@ python damagenet.py 0 100 [gpu_id]
 python lrp.py
 ```
 
+![](demo/AoA.png)
 <img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/AoA.png" height="250"><img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/results.png" height="250">
 
 # Authors
