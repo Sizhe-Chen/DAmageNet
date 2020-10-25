@@ -1,13 +1,5 @@
-# Authors
-* Sizhe Chen, sizhe.chen@sjtu.edu.cn
-* Zhengbao He, lstefanie@sjtu.edu.cn
-* Chengjin Sun, sunchengjin@sjtu.edu.cn
-* Jie Yang, jieyang@sjtu.edu.cn
-* Xiaolin Huang*, xiaolinhuang@sjtu.edu.cn
-* Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University
-
 # Description
-* Method of DAmageNet can be viewed in "Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet", [IEEE TPAMI](https://ieeexplore.ieee.org/document/9238430)]
+* DAmageNet is generated in paper "Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet", [IEEE TPAMI](https://ieeexplore.ieee.org/document/9238430)
 * DAmageNet is a massive dataset containing universal adversarial samples generated from ImageNet.
 * DAmageNet contains 50000 224*224 images, whose original images have been centrally cropped and resized.
 * DAmageNet images have an average root mean square deviation of around 7.32 from original samples.
@@ -45,3 +37,11 @@ python lrp.py
 ```
 
 <img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/AoA.png" height="250"><img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/results.png" height="250">
+
+# Authors
+* Sizhe Chen, sizhe.chen@sjtu.edu.cn
+* Zhengbao He, lstefanie@sjtu.edu.cn
+* Chengjin Sun, sunchengjin@sjtu.edu.cn
+* Jie Yang, jieyang@sjtu.edu.cn
+* Xiaolin Huang*, xiaolinhuang@sjtu.edu.cn
+* Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University
