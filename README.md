@@ -44,4 +44,4 @@ python lrp.py
 * Chengjin Sun, sunchengjin@sjtu.edu.cn
 * [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang), jieyang@sjtu.edu.cn
 * [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)\*, xiaolinhuang@sjtu.edu.cn
-* Authors work in Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University.
+* Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University.
