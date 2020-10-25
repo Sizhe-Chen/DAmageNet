@@ -15,12 +15,10 @@
 * DAmageNet can fool adversariral-trained models in ImageNet to have error rate up to 70%.
 
 # Test
-* [Download](http://www.pami.sjtu.edu.cn/Show/56/122)
-* Each file in DAmageNet has the same name as in ILSVRC2012_img_val.
-* Test in DAmageNet can be done by test.py
-* Unzip DAmageNet to this folder as 'DAmageNet' and run
+* [Download](http://www.pami.sjtu.edu.cn/Show/56/122). Each file in DAmageNet has the same name as in ILSVRC2012_img_val.
+* Unzip DAmageNet to this folder as 'DAmageNet' and test by
 ```
-python test.py DAmageNet VGG19,ResNet50,DenseNet121 0
+python test.py DAmageNet VGG19,ResNet50,DenseNet121 [gpu_id]
 ```
 
 # Generation
