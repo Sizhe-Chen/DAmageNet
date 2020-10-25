@@ -1,5 +1,5 @@
 # Authors
-* Sizhe Chen, sizhe.chen.edu.cn
+* Sizhe Chen, sizhe.chen@sjtu.edu.cn
 * Zhengbao He, lstefanie@sjtu.edu.cn
 * Chengjin Sun, sunchengjin@sjtu.edu.cn
 * Jie Yang, jieyang@sjtu.edu.cn
