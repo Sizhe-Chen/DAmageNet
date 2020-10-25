@@ -7,7 +7,7 @@
 * Institute of Image Processing and Pattern Recognition in Shanghai Jiao Tong University
 
 # Description
-* Details of DAmageNet can be viewed in [Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet, [IEEE TPAMI](https://ieeexplore.ieee.org/document/9238430)]
+* Method of DAmageNet can be viewed in "Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet", [IEEE TPAMI](https://ieeexplore.ieee.org/document/9238430)]
 * DAmageNet is a massive dataset containing universal adversarial samples generated from ImageNet.
 * DAmageNet contains 50000 224*224 images, whose original images have been centrally cropped and resized.
 * DAmageNet images have an average root mean square deviation of around 7.32 from original samples.
@@ -27,12 +27,14 @@ python test.py DAmageNet VGG19,ResNet50,DenseNet121 0
 * Prepare [ImageNet validation set (2012)](http://www.image-net.org), place in folder 'ILSVRC2012_img_val'
 * Prepare the environment as in test.py
 * Copy base.py to the path in iNNvestigate
-<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/change%20in%20iNNvestigate.png">
+<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/change%20in%20iNNvestigate.png" height="150">
 * run
+
 ```
 python damagenet.py 0 50000 [gpu_id]
 ```
 * See details in attack, run
+
 ```
 python damagenet.py 0 100 [gpu_id]
 ```
