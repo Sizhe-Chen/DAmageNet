@@ -36,14 +36,12 @@ python damagenet.py 0 100 [gpu_id]
 python lrp.py
 ```
 
-![](demo/AoA.png)
-
 <img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/AoA.png" height="250"><img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/results.png" height="250">
 
 # Authors
-* Sizhe Chen, sizhe.chen@sjtu.edu.cn
+* [Sizhe Chen](https://sizhechen.top/), sizhe.chen@sjtu.edu.cn
 * Zhengbao He, lstefanie@sjtu.edu.cn
 * Chengjin Sun, sunchengjin@sjtu.edu.cn
-* Jie Yang, jieyang@sjtu.edu.cn
-* Xiaolin Huang\*, xiaolinhuang@sjtu.edu.cn
+* [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang), jieyang@sjtu.edu.cn
+* [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)\*, xiaolinhuang@sjtu.edu.cn
 * Authors work in Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University.
