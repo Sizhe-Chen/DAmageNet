@@ -18,13 +18,13 @@
 * [Download](http://www.pami.sjtu.edu.cn/Show/56/122)
 * Each file in DAmageNet has the same name as in ILSVRC2012_img_val.
 * Test in DAmageNet can be done by test.py
-* Unzip DAmageNet and run
+* Unzip DAmageNet to this folder as 'DAmageNet' and run
 ```
 python test.py DAmageNet VGG19,ResNet50,DenseNet121 0
 ```
 
 # Generation
-* Prepare [ImageNet validation set (2012)](http://www.image-net.org)
+* Prepare [ImageNet validation set (2012)](http://www.image-net.org), place in folder 'ILSVRC2012_img_val'
 * Prepare the environment as in test.py
 * Copy base.py to the path in iNNvestigate
 <img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/change%20in%20iNNvestigate.png">
@@ -38,7 +38,7 @@ python damagenet.py 0 100 [gpu_id]
 ```
 
 # Demo
-<img src="https://github.com/AllenChen1998/DAmageNet/tree/master/demo/AoA.png" height="250"><img src="https://github.com/AllenChen1998/DAmageNet/tree/master/demo/results.png" height="250">
+<img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/AoA.png" height="250"><img src="https://github.com/AllenChen1998/DAmageNet/blob/master/demo/results.png" height="250">
 * Reproduce the result of Fig. 4 in the paper, run
 ```
 python lrp.py
