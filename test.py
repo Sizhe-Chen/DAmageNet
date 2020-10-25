@@ -25,6 +25,7 @@ Environment
     ! python==3.7.3
     ! tensorflow==1.13.1
     ! keras==2.2.4
+    innvestigate==1.0.8
     scipy==1.2.1
     numpy==1.16.5
     pillow==6.2.1
