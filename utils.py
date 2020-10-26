@@ -11,7 +11,7 @@ import keras
 
 
 paths = {
-    'Data':   '../ILSVRC2012_img_val',
+    'Data':   'ILSVRC2012_img_val',
     'Label':  'val.txt'
 }
 for key in paths:
